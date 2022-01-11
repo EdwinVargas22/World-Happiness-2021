@@ -1,6 +1,6 @@
 # World Happiness 2021 Analysis
 
-!(/Images/Happiness.jpeg)
+/Images/Happiness.jpeg
 
 
 
