@@ -10,15 +10,16 @@ The goal in this analysis, is to see which of the 6 criteria's have a strong cor
 
 ### Data Cleaning
 
+The floats had leading decimals and I only wanted it at two decimal points so I modified it. 
+
+The names of the columns were also renamed to make them simpler.
+
+There were some columns removed because they weren't going to be use in the analysis.
+
+### Data Visualization
 
 
 
 
-
-
-
-
-
-
-
+### Conclusion
 
