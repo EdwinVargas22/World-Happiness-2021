@@ -42,7 +42,7 @@ There isn't a negative or positive correlation of when generosity increases, cou
 
 ![Country Score vs Corruption Score](https://user-images.githubusercontent.com/60836219/149064224-34b24c7a-52d5-4dbb-b19c-eb01983dee1d.png)
 
-
+It seems there isn't a negative or positive correlation of when corruption score increases, country score inreases or decreases. There are a few outlier countries who fall between the 7 to 8 country score range. It's really interesting to see how most countries fall between the 0.6 to 1.0 corruption score range.
 
 
 ### Conclusion
