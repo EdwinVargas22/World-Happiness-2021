@@ -28,9 +28,17 @@ This scatter plot shows there is a strong positive correlation of when the GDP p
 
 This is another strong positive correlation of when the social support increases, country score increases. The countries from Western Europe and North America and ANZ regions are again the ones who are mostly in the top right of the scatter plot. The countries from Sub-Saharan Africa region are again the ones who are mainly on the bottom left. In order for countries to increase their country score, they need to invest in social support.
 
-
 ![Country Score vs Life Expectancy](https://user-images.githubusercontent.com/60836219/149060896-9e1fa978-42db-42e2-9b42-2b424669d2e1.png)
+
+As life expectancy increases, country score increases, so there is a strong positive correlation. Again the countries from Sub-Saharan Africa region are in the bottom left while the Western Europe and North America and ANZ regions are in the top right.
+
+![Country Score vs Freedom](https://user-images.githubusercontent.com/60836219/149062150-eff0ef1b-e78f-421a-b3f8-e41552a4a8f9.png)
+
+
+
 
 
 ### Conclusion
+
+
 
