@@ -34,11 +34,17 @@ As life expectancy increases, country score increases, so there is a strong posi
 
 ![Country Score vs Freedom](https://user-images.githubusercontent.com/60836219/149062150-eff0ef1b-e78f-421a-b3f8-e41552a4a8f9.png)
 
+There is a small positive correlation of when freedom score increases, country score increases. The reason it's a small positive correlation is because there are some countries who have a freedom score above 0.8 but have low country score while other countries have high country score. This tells us freedom score affects a small portion of the country score when the other 5 criteria's are included.
+
+![Country Score vs Generosity](https://user-images.githubusercontent.com/60836219/149063030-280d77bf-28ab-4788-946f-2c353ada80de.png)
+
+
 
 
 
 
 ### Conclusion
+
 
 
 
