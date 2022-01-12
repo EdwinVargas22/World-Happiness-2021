@@ -8,7 +8,7 @@ The data countains 149 countries which each country is assigned to a region. The
 
 The goal in this analysis, is to see which of the 6 criteria's have a strong correlation to the country score.
 
-### Data Cleaning
+## Data Cleaning
 
 The floats had leading decimals and I only wanted it at two decimal points so I modified it using the function DataFrame.round()
 
@@ -16,7 +16,7 @@ The names of the columns were also renamed to make them simpler and I used the f
 
 There were some columns removed because they weren't going to be use in the analysis. The function used was DataFrame.drop()
 
-### Data Visualization
+## Data Visualization
 
 I used 6 scatter plots to compare Country Score vs the 6 criteria's. 
 
