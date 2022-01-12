@@ -44,9 +44,8 @@ There isn't a negative or positive correlation of when generosity increases, cou
 
 It seems there isn't a negative or positive correlation of when corruption score increases, country score inreases or decreases. There are a few outlier countries who fall between the 7 to 8 country score range. It's really interesting to see how most countries fall between the 0.6 to 1.0 corruption score range.
 
-
 ### Conclusion
 
-
+The criteria's that have strong correlation towards the country score is GDP per capita, Social Support, and Life Expectancy. These 3 criteria's affect the country score the most compared to the other 3 criteria's. The countries that would mainly be on the top right for these 3 criteria's would mainly be from the Western Europe and North America and ANZ regions. 
 
 
