@@ -18,8 +18,11 @@ There were some columns removed because they weren't going to be use in the anal
 
 ### Data Visualization
 
+I used 6 scatter plots to compare country score vs the 6 criteria's.
 
+![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149058897-184c59f2-1589-43ce-ab85-cb4d4391e6d8.png)
 
 
 ### Conclusion
+
 
