@@ -22,14 +22,15 @@ I used 6 scatter plots to compare Country Score vs the 6 criteria's.
 
 ![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149058897-184c59f2-1589-43ce-ab85-cb4d4391e6d8.png)
 
-This scatter plot shows there is a strong positive correlation of when the GDP per capita goes up, the country score is higher. Most of the countries in the top right are from Western Europe and North America and ANZ region. In the bottom left, most of the countries are from the Sub-Saharan Africa region. For the countries with low country score, increasing their GDP per capita will help them drastically get a higher score.
-
+This scatter plot shows there is a strong positive correlation of when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America and ANZ regions. In the bottom left, most of the countries are from the Sub-Saharan Africa region. For the countries with low country score, increasing their GDP per capita will help them drastically get a higher score.
 
 ![Country Score vs Social Support](https://user-images.githubusercontent.com/60836219/149060004-416c1cec-00ee-4a6c-8933-397735a6f12f.png)
 
+This is another strong positive correlation of when the social support increases, country score increases. The countries from Western Europe and North America and ANZ regions are again the ones who are mostly in the top right of the scatter plot. The countries from Sub-Saharan Africa region are again the ones who are mainly on the bottom left. In order for countries to increase their country score, they need to invest in social support.
+
+
+![Country Score vs Life Expectancy](https://user-images.githubusercontent.com/60836219/149060896-9e1fa978-42db-42e2-9b42-2b424669d2e1.png)
 
 
 ### Conclusion
-
-
 
