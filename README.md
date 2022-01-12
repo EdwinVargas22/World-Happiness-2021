@@ -10,11 +10,11 @@ The goal in this analysis, is to see which of the 6 criteria's have a strong cor
 
 ### Data Cleaning
 
-The floats had leading decimals and I only wanted it at two decimal points so I modified it. 
+The floats had leading decimals and I only wanted it at two decimal points so I modified it using the function DataFrame.round()
 
-The names of the columns were also renamed to make them simpler.
+The names of the columns were also renamed to make them simpler and I used the function DataFrame.rename()
 
-There were some columns removed because they weren't going to be use in the analysis.
+There were some columns removed because they weren't going to be use in the analysis. The function used was DataFrame.drop()
 
 ### Data Visualization
 
