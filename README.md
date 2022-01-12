@@ -38,7 +38,9 @@ There is a small positive correlation of when freedom score increases, country s
 
 ![Country Score vs Generosity](https://user-images.githubusercontent.com/60836219/149063030-280d77bf-28ab-4788-946f-2c353ada80de.png)
 
+There isn't a negative or positive correlation of when generosity increases, country score increases or decreases. This is very interesting because we would think countries with high country score will have a high generosity score, but there are some countries with low country score who either have a higher generosity score or about the same generosity score as them.
 
+![Country Score vs Corruption Score](https://user-images.githubusercontent.com/60836219/149064224-34b24c7a-52d5-4dbb-b19c-eb01983dee1d.png)
 
 
 
