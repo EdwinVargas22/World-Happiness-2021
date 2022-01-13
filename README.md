@@ -28,7 +28,7 @@ I used 6 scatter plots to compare Country Score vs the 6 criteria's to see which
 
 ![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149058897-184c59f2-1589-43ce-ab85-cb4d4391e6d8.png)
 
-This scatter plot shows there is a strong positive correlation of when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America and ANZ regions. In the bottom left, most of the countries are from the Sub-Saharan Africa region. For the countries with low country score, increasing their GDP per capita will help them drastically get a higher score.
+The scatter plot shows there is a strong positive correlation of when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America and ANZ regions. In the bottom left, most of the countries are from the Sub-Saharan Africa region. For the countries with low country score, increasing their GDP per capita will help them drastically get a higher country score.
 
 ![Country Score vs Social Support](https://user-images.githubusercontent.com/60836219/149060004-416c1cec-00ee-4a6c-8933-397735a6f12f.png)
 
