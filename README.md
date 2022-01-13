@@ -16,6 +16,12 @@ The names of the columns were also renamed to make them simpler and I used the f
 
 There were some columns removed because they weren't going to be use in the analysis. The function used was DataFrame.drop()
 
+Before Cleaning
+![Before](https://user-images.githubusercontent.com/60836219/149268259-40d8a0d4-d98b-45d1-a7d1-d07a2ab306d3.PNG)
+
+After Cleaning
+![After](https://user-images.githubusercontent.com/60836219/149268310-89ced1dc-0480-4e5f-868c-ef6ff8214e9f.PNG)
+
 ## Data Visualization
 
 I used 6 scatter plots to compare Country Score vs the 6 criteria's. 
@@ -51,3 +57,4 @@ The criteria's that have strong correlation towards the country score is GDP per
 
 
 Source: https://worldhappiness.report/ed/2021/
+
