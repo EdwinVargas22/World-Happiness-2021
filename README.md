@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The data countains 149 countries which each country is assigned to a region. They are all scored based on GDP per captia, Social Support, Life Expectancy, Freedom, Generosity, and Corruption Score. There is an overall score called country score which is the score of happiness from a scale of 1-10.
+The data countains 149 countries which each country is assigned to a region. They are all scored based on GDP per captia, Social Support, Life Expectancy, Freedom, Generosity, and Corruption Score. There is an overall score called country score which is the average score of happiness from a scale of 1-10.
 
 The goal in this analysis, is to see which of the 6 criteria's have a strong correlation to the country score.
 
