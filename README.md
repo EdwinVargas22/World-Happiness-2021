@@ -49,3 +49,5 @@ It seems there isn't a negative or positive correlation of when corruption score
 The criteria's that have strong correlation towards the country score is GDP per capita, Social Support, and Life Expectancy. These 3 criteria's affect the country score the most compared to the other 3 criteria's. The countries that would mostly be on the top right for these 3 criteria's would mainly be from the Western Europe and North America and ANZ regions. For the countries who have a low country score, if they want to increase their country score in the world happiness report for the coming years, they will need to focus heavily in GDP per capita, Social Support, and Life Expectancy. The country score might not change drastically short-term, but in the long-term it will.
 
 
+
+Source: https://worldhappiness.report/ed/2021/
