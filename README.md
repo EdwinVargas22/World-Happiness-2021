@@ -24,7 +24,7 @@ After Cleaning
 
 ## Data Visualization
 
-I used 6 scatter plots to compare Country Score vs the 6 criteria's. 
+I used 6 scatter plots to compare Country Score vs the 6 criteria's to see which of the criteria's have a strong positive correlation to it.
 
 ![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149058897-184c59f2-1589-43ce-ab85-cb4d4391e6d8.png)
 
