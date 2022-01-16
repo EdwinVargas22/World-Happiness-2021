@@ -6,7 +6,7 @@
 
 The data countains 149 countries which each country is assigned to a region. They are all scored based on GDP per captia, Social Support, Life Expectancy, Freedom, Generosity, and Corruption Score. There is an overall score called country score which is the average score of happiness from a scale of 1-10.
 
-The goal in this analysis, is to see which of the 6 criteria's have a strong positive correlation to the country score. My hypothesis is GDP per capita, social support, and freedom will have a strong positive correlation towards country score.
+The goal in this analysis, is to see which of the six metric's have a strong positive correlation to the country score. My hypothesis is GDP per capita, social support, and freedom will have a strong positive correlation towards country score.
 
 ## Data Cleaning
 
@@ -24,7 +24,7 @@ After Cleaning
 
 ## Data Visualization
 
-I used 6 scatter plots to compare Country Score vs the 6 criteria's to see which of the criteria's have a strong positive correlation to it.
+I used 6 scatter plots to compare Country Score vs the six metric's to see which of the metric's have a strong positive correlation to it.
 
 ![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149453051-a4d8f04c-67d8-4d0a-b3a1-7df01901eb56.png)
 
@@ -52,7 +52,7 @@ It seems there isn't a negative or positive correlation of when corruption score
 
 ### Conclusion
 
-The criteria's that have strong positive correlation towards the country score is GDP per capita, Social Support, and Life Expectancy so my hypothesis was wrong by one criteria. These 3 criteria's affect the country score the most compared to the other 3 criteria's. The countries that would mostly be on the top right for these 3 criteria's would mainly be from the Western Europe and North America and ANZ regions. For the countries who have a low country score, if they want to increase their country score in the world happiness report for the coming years, they will need to focus heavily in GDP per capita, Social Support, and Life Expectancy. The country score might not change drastically short-term, but in the long-term it will.
+The metric's that have strong positive correlation towards the country score is GDP per capita, Social Support, and Life Expectancy so my hypothesis was wrong by one metric. These 3 metric's affect the country score the most compared to the other 3 metric's. The countries that would mostly be on the top right for these 3 metric's would mainly be from the Western Europe and North America and ANZ regions. For the countries who have a low country score, if they want to increase their country score in the world happiness report for the coming years, they will need to focus heavily in GDP per capita, Social Support, and Life Expectancy. The country score might not change drastically short-term, but in the long-term it will.
 
 
 
