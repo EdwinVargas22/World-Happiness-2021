@@ -4,17 +4,17 @@
 
 ## Introduction
 
-The data countains 149 countries which each country is assigned to a region. They are all scored based on GDP per captia, Social Support, Life Expectancy, Freedom, Generosity, and Corruption Score. There is an overall score called country score which is the average score of happiness from a scale of 1-10.
+The data contains 149 countries which each country is assigned to a region. They are all scored based on GDP per capita, Social Support, Life Expectancy, Freedom, Generosity, and Corruption Score. There is an overall score called country score, which is the average score of happiness on a scale of 1-10.
 
-The goal in this analysis, is to see which of the six metric's have a strong positive correlation to the country score. My hypothesis is GDP per capita, social support, and freedom will have a strong positive correlation towards country score.
+This analysis aims to see which of the six metrics have a strong positive correlation to the country score. My hypothesis is GDP per capita, social support, and freedom will have a strong positive correlation towards the country score.
 
 ## Data Cleaning
 
-The floats had leading decimals and I only wanted it at two decimal points so I modified it using the function DataFrame.round()
+The floats had leading decimals, and I only wanted it at two decimal points, so I modified it using the function DataFrame.round()
 
-The names of the columns were also renamed to make them simpler and I used the function DataFrame.rename()
+The names of the columns were also renamed to make them more straightforward, and I used the function DataFrame.rename()
 
-There were some columns removed because they weren't going to be use in the analysis. The function used was DataFrame.drop()
+Some columns were removed because they weren't going to be used in the analysis. The function used was DataFrame.drop()
 
 Before Cleaning
 ![Before](https://user-images.githubusercontent.com/60836219/149268259-40d8a0d4-d98b-45d1-a7d1-d07a2ab306d3.PNG)
@@ -24,35 +24,35 @@ After Cleaning
 
 ## Data Visualization
 
-I used 6 scatter plots to compare Country Score vs the six metric's to see which of the metric's have a strong positive correlation to it.
+I used 6 scatter plots to compare the correlation between Country Score and the six metrics to see which have a strong positive correlation.
 
 ![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149453051-a4d8f04c-67d8-4d0a-b3a1-7df01901eb56.png)
 
-The scatter plot shows there is a strong positive correlation of when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America and ANZ regions. In the bottom left, most of the countries are from the Sub-Saharan Africa region. For the countries with low country score, increasing their GDP per capita will help them drastically get a higher country score.
+The scatter plot shows a strong positive correlation of when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America & ANZ regions. In the bottom left, most countries are from the Sub-Saharan Africa region. For the countries with a low country score, increasing their GDP per capita will help them drastically get a higher country score.
 
 ![Country Score vs Social Support](https://user-images.githubusercontent.com/60836219/149060004-416c1cec-00ee-4a6c-8933-397735a6f12f.png)
 
-This is another strong positive correlation of when the social support increases, country score increases. The countries from Western Europe and North America and ANZ regions are again the ones who are mostly in the top right of the scatter plot. The countries from Sub-Saharan Africa region are again the ones who are mainly on the bottom left. In order for countries to increase their country score, they need to invest in social support.
+Another strong positive correlation is that when the social support increases, the country score increases. The countries from Western Europe and North America & ANZ regions are the ones primarily in the top right of the scatter plot. The countries from Sub-Saharan Africa region are again the ones who are mainly on the bottom left. For countries to increase their country score, they need to invest in social support.
 
 ![Country Score vs Life Expectancy](https://user-images.githubusercontent.com/60836219/149060896-9e1fa978-42db-42e2-9b42-2b424669d2e1.png)
 
-As life expectancy increases, country score increases, so there is a strong positive correlation. Again the countries from Sub-Saharan Africa region are in the bottom left while the Western Europe and North America and ANZ regions are in the top right.
+As life expectancy increases, the country score increases, so there is a strong positive correlation. Again the countries from Sub-Saharan Africa region are in the bottom left while Western Europe and North America & ANZ regions are in the top right.
 
 ![Country Score vs Freedom](https://user-images.githubusercontent.com/60836219/149062150-eff0ef1b-e78f-421a-b3f8-e41552a4a8f9.png)
 
-There is a small positive correlation of when freedom score increases, country score increases. The reason it's a small positive correlation is because there are some countries who have a freedom score above 0.8 but have low country score while other countries have high country score. This tells us freedom score affects a small portion of the country score when the other 5 criteria's are included.
+There is a small positive correlation when freedom score increases, country score increases. The reason it's a slight positive correlation is that some countries have a freedom score above 0.8 but have a low country score while others have a high country score. This tells us freedom score affects a small portion of the country score when the other 5 criteria's are included.
 
 ![Country Score vs Generosity](https://user-images.githubusercontent.com/60836219/149063030-280d77bf-28ab-4788-946f-2c353ada80de.png)
 
-There isn't a negative or positive correlation of when generosity increases, country score increases or decreases. This is very interesting because we would think countries with high country score will have a high generosity score, but there are some countries with low country score who either have a higher generosity score or about the same generosity score as them.
+There isn't a negative or positive correlation of when generosity increases, country score increases or decreases. This is very interesting because we would think countries with high country scores will have a high generosity score, but there are some countries with low country scores who either have a higher generosity score or about the same generosity score as them.
 
 ![Country Score vs Corruption Score](https://user-images.githubusercontent.com/60836219/149064224-34b24c7a-52d5-4dbb-b19c-eb01983dee1d.png)
 
-It seems there isn't a negative or positive correlation of when corruption score increases, country score inreases or decreases. There are a few outlier countries who fall between the 7 to 8 country score range. It's really interesting to see how most countries fall between the 0.6 to 1.0 corruption score range.
+It seems there isn't a negative or positive correlation of when corruption score increases, country score increases or decreases. There are a few outlier countries that fall between the 7 to 8 country score range. It's really interesting to see how most countries fall between the 0.6 to 1.0 corruption score range.
 
 ### Conclusion
 
-The metric's that have strong positive correlation towards the country score is GDP per capita, Social Support, and Life Expectancy so my hypothesis was wrong by one metric. These 3 metric's affect the country score the most compared to the other 3 metric's. The countries that would mostly be on the top right for these 3 metric's would mainly be from the Western Europe and North America and ANZ regions. For the countries who have a low country score, if they want to increase their country score in the world happiness report for the coming years, they will need to focus heavily in GDP per capita, Social Support, and Life Expectancy. The country score might not change drastically short-term, but in the long-term it will.
+The metrics that have a strong positive correlation towards the country score are GDP per capita, Social Support, and Life Expectancy so my hypothesis was wrong by one metric. These 3 metrics affect the country score the most compared to the other 3 metrics. The countries that would mostly be on the top right for these 3 metrics would mainly be from Western Europe and North America & ANZ regions. For the countries who have a low country score, if they want to increase their country scores in the world happiness report for the coming years, they will need to focus heavily on GDP per capita, Social Support, and Life Expectancy. The country score might not change drastically short term, but in the long-term it will.
 
 
 Source: https://worldhappiness.report/ed/2021/
