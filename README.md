@@ -24,29 +24,29 @@ After Cleaning
 
 ## Data Visualization
 
-I used 6 scatter plots to compare the correlation between Country Score and the six metrics to see which have a strong positive correlation.
+I used 6 scatter plots to view the correlation between Country Score and the six metrics to see which have a strong positive correlation.
 
-![Country Score vs GDP per capita](https://user-images.githubusercontent.com/60836219/149453051-a4d8f04c-67d8-4d0a-b3a1-7df01901eb56.png)
+![Relationship between country score and GDP per capita](https://user-images.githubusercontent.com/60836219/155005700-2aef1bf9-b314-49ab-953e-442e8e0b6c6a.png)
 
-The scatter plot shows a strong positive correlation of when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America & ANZ regions. In the bottom left, most countries are from the Sub-Saharan Africa region. For the countries with a low country score, increasing their GDP per capita will help them drastically get a higher country score.
+The scatter plot shows a strong positive correlation when the GDP per capita goes up, the country score increases. Most of the countries in the top right are from Western Europe and North America & ANZ regions. In the bottom left, most countries are from the Sub-Saharan Africa region. For the countries with a low country score, increasing their GDP per capita will help them drastically get a higher country score.
 
-![Country Score vs Social Support](https://user-images.githubusercontent.com/60836219/149060004-416c1cec-00ee-4a6c-8933-397735a6f12f.png)
+![Relationship between country score and social support](https://user-images.githubusercontent.com/60836219/155005837-5830636b-9593-48a5-a53a-65cd9bac40d0.png)
 
 Another strong positive correlation is that when the social support increases, the country score increases. The countries from Western Europe and North America & ANZ regions are the ones primarily in the top right of the scatter plot. The countries from Sub-Saharan Africa region are again the ones who are mainly on the bottom left. For countries to increase their country score, they need to invest in social support.
 
-![Country Score vs Life Expectancy](https://user-images.githubusercontent.com/60836219/149060896-9e1fa978-42db-42e2-9b42-2b424669d2e1.png)
+![Relationship between country score and life expectancy](https://user-images.githubusercontent.com/60836219/155005896-6de61294-8474-47b3-a770-6ed30ccc1d49.png)
 
 As life expectancy increases, the country score increases, so there is a strong positive correlation. Again the countries from Sub-Saharan Africa region are in the bottom left while Western Europe and North America & ANZ regions are in the top right.
 
-![Country Score vs Freedom](https://user-images.githubusercontent.com/60836219/149062150-eff0ef1b-e78f-421a-b3f8-e41552a4a8f9.png)
+![Relationship between country score and freedom](https://user-images.githubusercontent.com/60836219/155005953-6bbf3a57-f903-4450-bbae-717d6b6364a8.png)
 
-There is a small positive correlation when freedom score increases, country score increases. The reason it's a slight positive correlation is that some countries have a freedom score above 0.8 but have a low country score while others have a high country score. This tells us freedom score affects a small portion of the country score when the other 5 criteria's are included.
+There is a slight positive correlation when freedom score increases, country score increases. The reason it's a slight positive correlation is that some countries have a freedom score above 0.8 but have a low country score while others have a high country score. This tells us freedom score affects a small portion of the country score when the other 5 criteria's are included.
 
-![Country Score vs Generosity](https://user-images.githubusercontent.com/60836219/149063030-280d77bf-28ab-4788-946f-2c353ada80de.png)
+![Relationship between country score and generosity](https://user-images.githubusercontent.com/60836219/155005984-801a32fe-7c3b-4210-8d46-a7f2c0bafeaa.png)
 
 There isn't a negative or positive correlation of when generosity increases, country score increases or decreases. This is very interesting because we would think countries with high country scores will have a high generosity score, but there are some countries with low country scores who either have a higher generosity score or about the same generosity score as them.
 
-![Country Score vs Corruption Score](https://user-images.githubusercontent.com/60836219/149064224-34b24c7a-52d5-4dbb-b19c-eb01983dee1d.png)
+![Relationship between country score and corruption score](https://user-images.githubusercontent.com/60836219/155006023-ec1a24f6-4308-4468-90ea-8fd4065a3791.png)
 
 It seems there isn't a negative or positive correlation of when corruption score increases, country score increases or decreases. There are a few outlier countries that fall between the 7 to 8 country score range. It's really interesting to see how most countries fall between the 0.6 to 1.0 corruption score range.
 
@@ -56,4 +56,3 @@ The metrics that have a strong positive correlation towards the country score ar
 
 
 Source: https://worldhappiness.report/ed/2021/
-
